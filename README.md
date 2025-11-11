@@ -1,7 +1,7 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
 ```
-Name: A.Praveena
-Reg.no: 212224040247
+Name: J.Praveen
+Reg.no: 212224230205
 ```
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
